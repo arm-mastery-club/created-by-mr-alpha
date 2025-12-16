@@ -22,7 +22,7 @@ export default function Footer() {
               Արդյունքներն են խոսում։ Ոչ թե անունը։
             </p>
             <a
-              href="https://whop.com/arm-mastery-club/"
+              href="https://whop.com/arm-mastery-club/arm-mastery-club-e7/?utm_source=store_page&funnelId=store_2bf61255-9fcb-401d-8489-3cb4e2155aee"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-gradient-to-r from-cyan-500 to-blue-500 text-white px-8 py-3 rounded-lg font-bold hover:from-cyan-400 hover:to-blue-400 transition-all shadow-lg shadow-cyan-500/50"
