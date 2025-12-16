@@ -6,7 +6,8 @@ export default function Hero() {
           <img
             src={`${import.meta.env.BASE_URL}arm_mastery_club.png`}
             alt="Arm Mastery Club"
-            className="mx-auto mt-10 h-32 w-auto opacity-80"
+            style={{ marginTop: '3rem' }}
+            className="mx-auto mb-6 h-32 w-auto"
           />
         </div>
 
