@@ -53,7 +53,7 @@ export default function AboutMrAlpha() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-2xl blur-2xl opacity-20"></div>
               <img
-                src="/mr-alpha-arm.jpg"
+                src={`${import.meta.env.BASE_URL}mr-alpha-arm.jpg`}
                 alt="Mr. Alpha"
                 className="relative rounded-2xl border-2 border-cyan-500/50 shadow-2xl shadow-cyan-500/30 w-full"
               />
