@@ -4,7 +4,7 @@ export default function Hero() {
       <div className="max-w-6xl mx-auto text-center">
         <div className="mb-8">
           <img
-            src="/arm_mastery_club.png"
+            src={`${import.meta.env.BASE_URL}arm_mastery_club.png`}
             alt="Arm Mastery Club"
             className="h-32 w-auto mx-auto mb-12 opacity-90"
           />
