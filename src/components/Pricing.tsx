@@ -59,7 +59,7 @@ export default function Pricing() {
 
           <div className="text-center">
             <a
-              href="https://whop.com/arm-mastery-club/"
+              href="https://whop.com/arm-mastery-club/arm-mastery-club-e7/?utm_source=store_page&funnelId=store_2bf61255-9fcb-401d-8489-3cb4e2155aee"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-gradient-to-r from-cyan-500 to-blue-500 text-white px-16 py-5 rounded-xl font-bold text-2xl hover:from-cyan-400 hover:to-blue-400 transition-all shadow-2xl shadow-cyan-500/50 hover:shadow-cyan-400/60 hover:scale-105 w-full md:w-auto"
