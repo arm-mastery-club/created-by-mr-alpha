@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row items-center justify-between space-y-6 md:space-y-0">
           <div className="flex flex-col items-center md:items-start space-y-4">
             <img
-              src="/arm_mastery_club.png"
+              src={`${import.meta.env.BASE_URL}arm_mastery_club.png`}
               alt="Arm Mastery Club"
               className="h-16 w-auto"
             />
