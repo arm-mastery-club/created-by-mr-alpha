@@ -18,7 +18,7 @@ export default function Navigation() {
         <div className="flex items-center justify-between h-20">
           <div className="flex items-center space-x-8">
             <img
-              src="/arm_mastery_club.png"
+              src={`${import.meta.env.BASE_URL}arm_mastery_club.png`}
               alt="Arm Mastery Club"
               className="h-12 w-auto"
             />
